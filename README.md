@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Patel
 
-<!--
-**RP267/RP267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 Geography Student
 
-Here are some ideas to get you started:
+I’m a Geography student with an interest in GIS, spatial analysis, and environmental systems. I enjoy using maps and data to understand real-world issues like inequality, climate change, and urban development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- ArcGIS Pro  
+- OS Digimap  
+- Excel (data analysis & graphs)  
+- Fieldwork & geographical research  
+- Spatial data visualisation  
+
+---
+
+## Facts about me
+- I enjoy hikes
+- I love anime
+- I go to gym
+---
+
+## 🎯 Goals
+
+- Improve GIS and spatial analysis skills  
+- Build a strong geography portfolio  
+- Apply geospatial skills to real-world environmental problems  
