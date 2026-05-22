@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rohan Patel
+# Hi, I'm Rohan Patel
 
-## 🌍 Geography Student
+##  Geography Student
 
 I’m a Geography student with an interest in GIS, spatial analysis, and environmental systems. I enjoy using maps and data to understand real-world issues like inequality, climate change, and urban development.
 
@@ -13,17 +13,9 @@ I’m a Geography student with an interest in GIS, spatial analysis, and environ
 - Excel (data analysis & graphs)  
 - Fieldwork & geographical research  
 - Spatial data visualisation  
-
----
-
-## Facts about me
-- I enjoy hikes
-- I love anime
-- I go to gym
 ---
 
 ## 🎯 Goals
 
-- Improve my python skills 
-- Build a strong geography portfolio  
+- Improve my python skills  
 - Apply geospatial skills to real-world environmental problems  
