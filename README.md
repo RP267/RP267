@@ -24,6 +24,6 @@ I’m a Geography student with an interest in GIS, spatial analysis, and environ
 
 ## 🎯 Goals
 
-- Improve GIS and spatial analysis skills  
+- Improve my python skills 
 - Build a strong geography portfolio  
 - Apply geospatial skills to real-world environmental problems  
